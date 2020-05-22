@@ -78,6 +78,7 @@ export default class ItemsDetails extends Component {
                   <button
                     className="btn btn-primary"
                     onClick={() => this.buyItem(id)}
+                    disabled={!item_availability}
                   >
                     Buy Now
                   </button>

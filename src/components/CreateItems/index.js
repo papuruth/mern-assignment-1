@@ -43,10 +43,10 @@ export default class CreateItem extends Component {
           item_id: this.generateId(),
           item_name: car_name,
           item_maker: car_maker,
-          item_model_year: car_model,
+          item_model: car_model,
           item_price: car_price,
           item_availability: true,
-          item_year: car_year
+          item_model_year: car_year
         }
       );
       if (response) {
