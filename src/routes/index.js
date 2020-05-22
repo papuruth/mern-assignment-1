@@ -11,7 +11,7 @@ export const routes = [
     component: Home
   },
   {
-    path: '/create-items',
+    path: '/create-item',
     exact: true,
     key:"CreateItem",
     component: CreateItem
