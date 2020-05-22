@@ -79,5 +79,45 @@
     "item_model": "XJ Series",
     "item_model_year": 1996,
     "item_price": "$38946.16"
-  }]
+  },{
+  "id": 11,
+  "item_id": "TRUUT28N041648920",
+  "item_name": "GMC",
+  "item_maker": "Volkswagen",
+  "item_model": "Suburban 2500",
+  "item_model_year": 1994,
+  "item_price": "$47379.69"
+}, {
+  "id": 12,
+  "item_id": "137ZA90361E064683",
+  "item_name": "Mercury",
+  "item_maker": "Nissan",
+  "item_model": "Grand Marquis",
+  "item_model_year": 1985,
+  "item_price": "$25335.42"
+}, {
+  "id": 13,
+  "item_id": "WVGAV3AX5DW932597",
+  "item_name": "Dodge",
+  "item_maker": "Mercury",
+  "item_model": "Ram 2500 Club",
+  "item_model_year": 1998,
+  "item_price": "$25469.13"
+}, {
+  "id": 14,
+  "item_id": "WBA3V5C59EJ472280",
+  "item_name": "Hyundai",
+  "item_maker": "Chevrolet",
+  "item_model": "Elantra",
+  "item_model_year": 2001,
+  "item_price": "$32824.47"
+}, {
+  "id": 15,
+  "item_id": "WBAVC73578A265580",
+  "item_name": "Volvo",
+  "item_maker": "Buick",
+  "item_model": "V90",
+  "item_model_year": 1998,
+  "item_price": "$25882.39"
+}]
 }
