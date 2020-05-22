@@ -1,24 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { Router, Switch, Route } from 'react-router';
+import history from './routes/history';
+import { routes } from './routes';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <header className="App-header">MERN Assignment 1</header>
+      <main className="app_body">
+        <Router history={history}>
+          <Switch>
+            {routes.map((route) => (
+              <Route {...route} />
+            ))}
+          </Switch>
+        </Router>
+      </main>
     </div>
   );
 }
