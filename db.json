@@ -1,63 +1,83 @@
 {
   "items": [{
-  "id": 1,
-  "item_name": null,
-  "item_maker": "Oldsmobile",
-  "item_model": "Silhouette",
-  "item_model_year": 2000
-}, {
-  "id": 2,
-  "item_name": null,
-  "item_maker": "Honda",
-  "item_model": "del Sol",
-  "item_model_year": 1993
-}, {
-  "id": 3,
-  "item_name": null,
-  "item_maker": "Ford",
-  "item_model": "E350",
-  "item_model_year": 2011
-}, {
-  "id": 4,
-  "item_name": null,
-  "item_maker": "Spyker",
-  "item_model": "C8 Spyder Wide Body",
-  "item_model_year": 2004
-}, {
-  "id": 5,
-  "item_name": null,
-  "item_maker": "Saab",
-  "item_model": "9000",
-  "item_model_year": 1995
-}, {
-  "id": 6,
-  "item_name": null,
-  "item_maker": "Chevrolet",
-  "item_model": "Corsica",
-  "item_model_year": 1995
-}, {
-  "id": 7,
-  "item_name": null,
-  "item_maker": "Toyota",
-  "item_model": "Avalon",
-  "item_model_year": 2010
-}, {
-  "id": 8,
-  "item_name": null,
-  "item_maker": "GMC",
-  "item_model": "Sierra 2500",
-  "item_model_year": 2010
-}, {
-  "id": 9,
-  "item_name": null,
-  "item_maker": "Toyota",
-  "item_model": "T100 Xtra",
-  "item_model_year": 1997
-}, {
-  "id": 10,
-  "item_name": null,
-  "item_maker": "Jaguar",
-  "item_model": "X-Type",
-  "item_model_year": 2004
-}]
+    "id": 1,
+    "item_id": "2G4WB52K821455388",
+    "item_name": "Audi",
+    "item_maker": "Volkswagen",
+    "item_model": "RS4",
+    "item_model_year": 2008,
+    "item_price": "$42633.69"
+  }, {
+    "id": 2,
+    "item_id": "KM8JT3AC5AU483741",
+    "item_name": "Ford",
+    "item_maker": "Nissan",
+    "item_model": "Escort",
+    "item_model_year": 1988,
+    "item_price": "$32557.90"
+  }, {
+    "id": 3,
+    "item_id": "1G4HP52K34U870099",
+    "item_name": "Bentley",
+    "item_maker": "Toyota",
+    "item_model": "Continental GTC",
+    "item_model_year": 2009,
+    "item_price": "$16552.99"
+  }, {
+    "id": 4,
+    "item_id": "WVWGD7AJ3EW063729",
+    "item_name": "Jeep",
+    "item_maker": "Volkswagen",
+    "item_model": "Liberty",
+    "item_model_year": 2004,
+    "item_price": "$32596.44"
+  }, {
+    "id": 5,
+    "item_id": "KNDJT2A25D7636725",
+    "item_name": "Lincoln",
+    "item_maker": "Oldsmobile",
+    "item_model": "Town Car",
+    "item_model_year": 2011,
+    "item_price": "$48656.12"
+  }, {
+    "id": 6,
+    "item_id": "2T2BC1BA7FC286242",
+    "item_name": "Jeep",
+    "item_maker": "Pontiac",
+    "item_model": "Grand Cherokee",
+    "item_model_year": 1996,
+    "item_price": "$16236.05"
+  }, {
+    "id": 7,
+    "item_id": "NM0KS6BN2AT202298",
+    "item_name": "Lincoln",
+    "item_maker": "Nissan",
+    "item_model": "Navigator",
+    "item_model_year": 2009,
+    "item_price": "$18889.20"
+  }, {
+    "id": 8,
+    "item_id": "WDDLJ7GB9FA487265",
+    "item_name": "Chevrolet",
+    "item_maker": "Dodge",
+    "item_model": "Tahoe",
+    "item_model_year": 1998,
+    "item_price": "$26792.93"
+  }, {
+    "id": 9,
+    "item_id": "KNALN4D7XE5432177",
+    "item_name": "Mercedes-Benz",
+    "item_maker": "Chevrolet",
+    "item_model": "SL-Class",
+    "item_model_year": 2007,
+    "item_price": "$20003.35"
+  }, {
+    "id": 10,
+    "item_id": "KNDPB3A23B7851276",
+    "item_name": "Jaguar",
+    "item_maker": "Volkswagen",
+    "item_model": "XJ Series",
+    "item_model_year": 1996,
+    "item_price": "$38946.16"
+  }]
 }
